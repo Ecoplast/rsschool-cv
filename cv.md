@@ -29,6 +29,9 @@ function multiply(a, b){
 }
 ```
 
+## Experience:
+I have no experience in development.
+
 ## Education:
 RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 
